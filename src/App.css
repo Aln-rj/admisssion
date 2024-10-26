@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.MuiPaper-root {
+  padding: 20px;
+}
+
+.MuiContainer-root {
+  margin-top: 50px;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px;
+}
